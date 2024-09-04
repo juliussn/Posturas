@@ -5,7 +5,7 @@ function Nabvar() {
     return (
       <>
         <nav className="navbar">
-        <h5>soy navbar</h5>
+        <h5>Consecuencias de una mala postura</h5>
         </nav>
       </>
     )

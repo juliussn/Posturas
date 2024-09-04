@@ -2,7 +2,7 @@ function Footer() {
 
     return (
       <>
-        <footer>hola</footer>
+        <footer className="footer">Esta pagina fue creada por Rodriguez Mayra, Caballero Thiago, Colman Milagros, Cabrera Julian </footer>
       </>
     )
   }
